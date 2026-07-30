@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Dr. Hari Narayan Deuri — Eye Specialist"
+version = "1.0.0"
+id = "artifacts/dr-deuri-clinic"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 26262
+
+[services.development]
+run = "pnpm --filter @workspace/dr-deuri-clinic run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/dr-deuri-clinic", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/dr-deuri-clinic/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "26262"
+BASE_PATH = "/"

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://drharinarayandeuri.com/sitemap.xml
+
+# Block build artifacts
+Disallow: /dist/
+Disallow: /node_modules/

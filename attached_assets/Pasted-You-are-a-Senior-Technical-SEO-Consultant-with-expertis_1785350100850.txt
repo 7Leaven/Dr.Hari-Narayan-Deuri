@@ -1,0 +1,419 @@
+You are a Senior Technical SEO Consultant with expertise in Local SEO, Medical SEO (Healthcare), EEAT, Core Web Vitals, and Google's Helpful Content Guidelines.
+
+Your task is to create a COMPLETE SEO strategy and website content for:
+
+Dr. Hari Narayan Deuri
+MBBS (Assam Medical College)
+DOMS (Guwahati)
+Eye Specialist
+
+Experience:
+8+ Years
+
+Locations:
+• Drishti Opticals, Narayanpur
+  Everyday: 3:30 PM – 6:30 PM
+
+• Laxmi Eye Opticals, Hospital Road, Gohpur
+  Everyday: 1:00 PM – 2:30 PM
+
+Serving:
+Narayanpur
+Bihpuria
+North Lakhimpur
+Lakhimpur
+Gohpur
+Assam
+
+Goal:
+Rank #1 on Google for local eye care searches across Assam.
+
+---------------------------------
+PRIMARY KEYWORDS
+---------------------------------
+
+best eye doctor in narayanpur
+
+best eye doctor in gohpur
+
+best eye doctor in bihpuriagaon
+
+eye specialist in assam
+
+eye doctor near me
+
+cataract surgeon in assam
+
+eye clinic in narayanpur
+
+eye clinic in gohpur
+
+affordable eye treatment in assam
+
+ophthalmologist in assam
+
+vision testing in narayanpur
+
+glaucoma specialist assam
+
+retina specialist assam
+
+eye hospital near narayanpur
+
+diabetic eye specialist assam
+
+---------------------------------
+LONG TAIL KEYWORDS
+---------------------------------
+
+best cataract doctor in narayanpur
+
+eye specialist near bihpuria
+
+eye doctor near lakhimpur
+
+best ophthalmologist in north lakhimpur
+
+eye treatment near gohpur
+
+emergency eye care assam
+
+dry eye treatment in assam
+
+eye infection treatment narayanpur
+
+vision checkup near me
+
+best eye clinic in assam
+
+children eye specialist assam
+
+eye examination narayanpur
+
+spectacle prescription gohpur
+
+---------------------------------
+OUTPUT REQUIREMENTS
+---------------------------------
+
+Generate:
+
+1.
+SEO Title (under 60 characters)
+
+Generate 10 variations.
+
+2.
+Meta Description (under 155 characters)
+
+Generate 10 versions.
+
+3.
+Homepage H1
+
+Generate 10 versions.
+
+4.
+Homepage Introduction
+
+800–1200 words
+
+Naturally optimized.
+
+Readable.
+
+Medical tone.
+
+Human sounding.
+
+EEAT optimized.
+
+5.
+About Doctor Section
+
+1000+ words
+
+Professional
+
+Trust building
+
+Expertise focused
+
+6.
+Service Pages Content
+
+Generate optimized content for:
+
+Eye Examination
+
+Cataract
+
+Glaucoma
+
+Dry Eye
+
+Eye Allergy
+
+Eye Infection
+
+Retina Care
+
+Vision Testing
+
+Emergency Eye Care
+
+Spectacle Prescription
+
+Each should include
+
+SEO title
+
+Meta description
+
+H1
+
+800+ words
+
+FAQs
+
+CTA
+
+7.
+Local Landing Pages
+
+Generate unique SEO pages for
+
+Narayanpur
+
+Gohpur
+
+Bihpuria
+
+North Lakhimpur
+
+Lakhimpur
+
+Each page must be unique.
+
+Minimum 1000 words.
+
+Do NOT duplicate content.
+
+8.
+Frequently Asked Questions
+
+Generate 40 FAQs.
+
+Schema ready.
+
+9.
+Medical Schema
+
+Generate JSON-LD for
+
+MedicalBusiness
+
+Physician
+
+Doctor
+
+FAQ
+
+Breadcrumb
+
+LocalBusiness
+
+WebSite
+
+WebPage
+
+Organization
+
+10.
+Open Graph Tags
+
+11.
+Twitter Cards
+
+12.
+Canonical URL
+
+13.
+robots.txt
+
+14.
+sitemap.xml
+
+15.
+Image SEO
+
+Generate
+
+image filenames
+
+alt text
+
+title text
+
+captions
+
+descriptions
+
+16.
+Internal Linking Strategy
+
+17.
+External Linking Strategy
+
+18.
+Content Cluster Strategy
+
+19.
+Topical Authority Map
+
+20.
+Google Business Profile Optimization
+
+Generate:
+
+Business Description
+
+Categories
+
+Services
+
+Attributes
+
+Products
+
+Q&A
+
+Posts
+
+21.
+Review Request Template
+
+22.
+Location Pages Strategy
+
+23.
+Nearby Areas Strategy
+
+Generate optimized content for
+
+Narayanpur
+
+Bihpuria
+
+North Lakhimpur
+
+Lakhimpur
+
+Gohpur
+
+Biswanath
+
+Assam
+
+24.
+Blog Strategy
+
+Generate 100 blog ideas with keywords.
+
+25.
+Keyword Research Table
+
+Keyword
+
+Intent
+
+Difficulty
+
+Volume
+
+Priority
+
+Suggested URL
+
+26.
+Core Web Vitals Checklist
+
+27.
+SEO Audit Checklist
+
+28.
+Technical SEO Checklist
+
+29.
+Accessibility Checklist
+
+30.
+EEAT Improvements
+
+31.
+Conversion Rate Optimization Suggestions
+
+32.
+Google Search Console Setup Checklist
+
+33.
+Google Analytics GA4 Checklist
+
+34.
+Google Business Ranking Strategy
+
+35.
+Backlink Strategy
+
+36.
+Local Citation Strategy
+
+37.
+NAP Consistency Guide
+
+38.
+Content Marketing Plan
+
+39.
+30-Day SEO Roadmap
+
+40.
+12-Month SEO Growth Strategy
+
+---------------------------------
+WRITING STYLE
+---------------------------------
+
+Write like a premium medical website.
+
+Avoid keyword stuffing.
+
+Use semantic keywords naturally.
+
+Use Google's Helpful Content guidelines.
+
+Use EEAT principles.
+
+Use simple English suitable for patients.
+
+Optimize for featured snippets.
+
+Optimize for AI Overviews.
+
+Optimize for voice search.
+
+Optimize for local SEO.
+
+Optimize for mobile-first indexing.
+
+---------------------------------
+IMPORTANT
+---------------------------------
+
+Do not generate generic content.
+
+Everything must be unique.
+
+Everything must target Assam.
+
+Everything must naturally rank for local eye care searches.

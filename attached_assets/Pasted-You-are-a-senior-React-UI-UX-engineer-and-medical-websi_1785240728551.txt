@@ -1,0 +1,106 @@
+You are a senior React + UI/UX engineer and medical website designer.
+
+Generate a COMPLETE, production-ready React project for a single-page medical clinic website.
+
+## OUTPUT RULES
+- First, output the exact terminal commands needed to scaffold the project and install all dependencies (create-react-app, tailwindcss + postcss + autoprefixer setup, framer-motion, lucide-react, react-helmet).
+- Then output the required config files in full: tailwind.config.js, postcss.config.js, and src/index.css (with @tailwind directives).
+- Then output the COMPLETE App.js file.
+- No explanations outside of clearly labeled code blocks (one per file/command block).
+- Use functional React components only. No TypeScript. No external CSS beyond the Tailwind index.css.
+- Import Framer Motion and use subtle fade-in animations.
+- All code must compile without errors when the setup commands are followed exactly.
+
+---------------------------------------------------
+BRAND
+---------------------------------------------------
+Dr. Hari Narayan Deuri
+Eye Specialist, Assam
+
+USP:
+- 8+ Years Experience
+- Emergency Eye Care
+- Affordable Treatment
+- Trusted Across 6+ Towns
+
+---------------------------------------------------
+DESIGN REQUIREMENTS
+---------------------------------------------------
+Theme:
+- White background, medical blue accents
+- Premium yet simple, elderly-friendly typography
+- High contrast, clean spacing, rounded cards, soft shadows
+- Modern, fully responsive, mobile-first
+- Accessibility friendly (proper aria-labels, alt text, focus states)
+- Fast loading, professional medical look
+
+---------------------------------------------------
+NAVIGATION
+---------------------------------------------------
+Sticky navbar with:
+- Doctor Name
+- Phone Number (use a placeholder like +91-XXXXXXXXXX and mark it clearly as "REPLACE ME")
+- Click-to-call button (tel: link)
+- WhatsApp button (wa.me link, placeholder number)
+- Smooth scrolling navigation to all sections
+
+---------------------------------------------------
+SECTION ORDER
+---------------------------------------------------
+1. Sticky Navbar
+2. Hero Section
+   Heading: "Comprehensive Eye Care in Narayanpur & Gohpur"
+   Subheading promoting trusted, affordable eye care.
+   Include Call Now + WhatsApp buttons.
+   Two side-by-side clinic timing cards:
+     Card 1: Narayanpur Clinic — Morning Timing
+     Card 2: Gohpur Clinic — Evening Timing
+
+3. About Doctor — 3 professional paragraphs covering experience, patient care, trust, affordability, emergency care, and service across Assam.
+
+4. Services — EXACTLY 12 services, responsive 3x4 grid on desktop, 1-2 columns on mobile. Each card: Lucide icon, title, one-line description.
+   Cataract Surgery, Eye Check-up, Retina Care, Glaucoma, Pediatric Eye Care, LASIK Consultation, Vision Testing, Eye Infection, Dry Eye, Diabetic Retinopathy, Spectacle Prescription, Emergency Eye Care.
+
+5. Why Choose Us — EXACTLY 9 feature cards (8+ Years Experience, Affordable Treatment, Emergency Eye Care, Trusted Specialist, Modern Equipment, Friendly Consultation, Accurate Diagnosis, Multiple Clinic Locations, Patient First Approach).
+
+6. Conditions Treated — colorful pills/tags: Cataract, Glaucoma, Dry Eyes, Allergies, Retina Disorders, Diabetic Eye Disease, Vision Problems, Eye Infection, Conjunctivitis, Corneal Disease, Squint, Refractive Errors.
+
+7. Testimonials — 3 realistic patient testimonials, each with name, location, 5-star rating, review text.
+
+8. FAQ — accordion, exactly 4 questions, smooth expand/collapse via Framer Motion (height/opacity transition, not display:none toggling).
+
+9. Contact Section — Doctor name, phone, WhatsApp button, clinic address, Google Maps embed placeholder (iframe with a placeholder src, clearly marked "REPLACE WITH ACTUAL EMBED URL"), call button.
+
+10. Footer — address, clinic timings, quick links, copyright, social icons (use Lucide icons, placeholder hrefs marked "#").
+
+---------------------------------------------------
+SEO REQUIREMENTS
+---------------------------------------------------
+Naturally include these keywords in headings, paragraphs, and alt text (not stuffed):
+best eye doctor in narayanpur, best eye doctor in gohpur, best eye doctor in bihpuriagaon, eye specialist in assam, cataract surgeon in assam, affordable eye treatment in assam.
+
+Use react-helmet for title, meta description, and Open Graph tags — but note in a comment at the top of App.js that since this is a client-rendered CRA app (no SSR), these tags won't be crawlable by all bots/social crawlers out of the box, and recommend either prerendering (react-snap) or migrating to Next.js for full SEO/OG support later.
+
+Use semantic HTML: <header>, <nav>, <main>, <section>, <footer>. Proper alt text on every image placeholder.
+
+---------------------------------------------------
+ANIMATIONS
+---------------------------------------------------
+Framer Motion fade-up on section entry (viewport-triggered, whileInView), hover animation on cards, button hover/tap effects.
+
+---------------------------------------------------
+ICONS & IMAGES
+---------------------------------------------------
+Lucide React icons only. For the doctor photo and any other images, use clearly labeled placeholder <img> tags (e.g. src="/images/doctor-placeholder.jpg") with a code comment telling me where to drop in real images.
+
+---------------------------------------------------
+TECH STACK
+---------------------------------------------------
+React (CRA), Tailwind CSS, Framer Motion, Lucide React, React Helmet — everything in ONE App.js file (excluding the config files listed above).
+
+---------------------------------------------------
+QUALITY REQUIREMENTS
+---------------------------------------------------
+Premium quality comparable to Apollo Hospitals / Narayana Health. Clean, modular (well-organized sub-components inside the single file), well-commented, fully responsive, accessible, SEO-optimized, deployment-ready.
+
+Output the setup commands, config files, and App.js code only — no extra commentary between code blocks.
