@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://drharinarayandeuri.com/sitemap.xml
+Sitemap: https://drharinarayandeuri.in/sitemap.xml
 
 # Block build artifacts
 Disallow: /dist/
