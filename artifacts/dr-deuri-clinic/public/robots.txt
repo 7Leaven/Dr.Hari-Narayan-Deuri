@@ -4,6 +4,4 @@ Allow: /
 # Sitemap
 Sitemap: https://drharinarayandeuri.in/sitemap.xml
 
-# Block build artifacts
-Disallow: /dist/
-Disallow: /node_modules/
+
