@@ -118,7 +118,7 @@ const Navbar = () => {
             <h1 className="font-serif font-bold text-lg md:text-xl text-slate-900 leading-tight">
               Dr. Hari Narayan Deuri
             </h1>
-            <p className="text-xs text-slate-500 font-medium tracking-wide">EYE SPECIALIST, ASSAM</p>
+            <p className="text-xs text-slate-500 font-medium tracking-wide">EYE SPECIALIST,NARAYANPUR,GOHPUR,ASSAM </p>
           </div>
         </a>
 
